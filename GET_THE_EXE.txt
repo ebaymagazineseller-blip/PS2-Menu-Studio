@@ -1,0 +1,9 @@
+Get a double-click PS2MenuStudio.exe (no Python, no installing anything)
+------------------------------------------------------------------------
+1. Make a free account at github.com and click New repository (any name).
+2. On the new repo page click "uploading an existing file" and drag in
+   EVERYTHING from this folder (including the .github folder). Click Commit.
+3. Open the Actions tab -> "Build Windows app" -> wait ~2 minutes for the green check.
+4. Click the finished run, download "PS2MenuStudio-Windows" at the bottom, unzip it.
+5. Double-click PS2MenuStudio.exe. (Windows may say "unknown publisher":
+   click More info -> Run anyway. That's normal for unsigned apps.)
